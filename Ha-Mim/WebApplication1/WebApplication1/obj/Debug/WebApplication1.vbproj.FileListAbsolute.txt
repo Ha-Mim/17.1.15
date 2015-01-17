@@ -1,0 +1,10 @@
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\bin\WebApplication1.xml
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\asp.net\Ha-Mim\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
